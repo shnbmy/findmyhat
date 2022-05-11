@@ -5,14 +5,14 @@ sorry I couldn't finish the assesment again. im still trying to fully understand
 
 What did you like about this project?
 
-there was help to get a headstart, 
--i was able to figure out a bit on how it functions 
+ - there was help to get a headstart 
+i was able to figure out a bit on how it functions 
 and which concepts to read on & understand better
 
 
 What did you struggle with in this project?
 
- -getting the game started & figuring out how to move my the player
+ - getting the game started & figuring out how to move my the player
  
  
 What would make your experience with this assessment better?
